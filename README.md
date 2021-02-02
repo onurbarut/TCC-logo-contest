@@ -8,7 +8,7 @@ Detailed information is provided below.
 ## Submission Deadline: April 1st, 2021
 - Final Evaluation Stage: April 7th, 2021 – April 21st, 2021
 - Result Announcement: April 23rd 2021
-- Prize: *$100 cash*
+- Prize: **$100 cash**
 
 ## Rules to follow:
 -	Logo must embody the phrase: “UMass Lowell Turkish Cultural Club (Abbreviations are also acceptable)”
@@ -43,4 +43,4 @@ While the recommendations are optional and not mandatory, designs that do not fo
 
 For questions, contact and support if you need, e-mail to turkishculturalclub@gmail.com
 
-### Copyrights of the submitted logos completely belong to TCC after the contest. The logos, under the supervision of TCC, can be used anywhere any time with any modifications without the permission of logo owner.
+### *Copyrights of the submitted logos completely belong to TCC after the contest. The logos, under the supervision of TCC, can be used anywhere any time with any modifications without the permission of logo owner.*
