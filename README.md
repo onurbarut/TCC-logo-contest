@@ -19,7 +19,7 @@ Detailed information is provided below.
 -	Up to 3 designs per participant is allowed.
 -	64x64, 128x128 and 256x256 resolution image logos with the raw file of the logo must be zipped in the same folder for the submission.
 -	Logo file format must be one of the followings: PNG, JPEG, or TIFF. 
--	Use the following form to submit your logo: https://github.com/onurbarut/TCC-logo-contest/blob/main/README.md
+-	Use the following form to submit your logo: https://docs.google.com/forms/d/e/1FAIpQLSfomS4dCmW28Yh2AFpMfs9IHYX1Lk62jNhcWE61ddMi9g_saQ/viewform
 -	Use your name written in your ID in your submission.
 
 ## Selection Process:
