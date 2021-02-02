@@ -16,11 +16,11 @@ Detailed information is provided below.
 -	TCC e-board members are NOT eligible to participate in the logo contest.
 
 ## Submission:
--	Up to 3 designs per participant is allowed.
--	64x64, 128x128 and 256x256 resolution image logos with the raw file of the logo must be zipped in the same folder for the submission.
+-	Up to 3 submissions per participant is allowed.
 -	Logo file format must be one of the followings: PNG, JPEG, or TIFF. 
--	Use the following form to submit your logo: https://docs.google.com/forms/d/e/1FAIpQLSfomS4dCmW28Yh2AFpMfs9IHYX1Lk62jNhcWE61ddMi9g_saQ/viewform
+-	64x64, 128x128 and 256x256 resolution image logos with the raw file of the logo must be zipped in the same folder for the submission.
 -	Use your name written in your ID in your submission.
+-	Use the following form to submit your zipped file: https://docs.google.com/forms/d/e/1FAIpQLSfomS4dCmW28Yh2AFpMfs9IHYX1Lk62jNhcWE61ddMi9g_saQ/viewform
 
 ## Selection Process:
 -	Turkish Cultural Club e-board members will select (blind-review) 10 Finalists among all designs.
