@@ -6,7 +6,7 @@ Here, we are encouraging all of you to participate in our logo contest. Our desi
 Detailed information is provided below.
 
 ## Submission Deadline: <del>April 1st, 2021</del> **April 10th, 2021 (FIRM!!!)**
-- Final Evaluation Stage: April 7th, 2021 – April 21st, 2021
+- Final Evaluation Stage: <del>April 7th </del> **April 14th**, 2021 – April 21st, 2021
 - Result Announcement: April 23rd 2021
 - Prize: **$100 cash**
 
