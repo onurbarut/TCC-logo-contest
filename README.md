@@ -5,7 +5,7 @@ We, as Turkish Cultural Club (TCC), a member of the Graduate Student Association
 Here, we are encouraging all of you to participate in our logo contest. Our desire is to create a competitive environment where individuals who thrive for the best, participate and get rewarded for their contribution and their design. The winner will be awarded with $100 and will also be publicly honored in social media and various UMass Lowell outlets. 
 Detailed information is provided below.
 
-## Submission Deadline: April 1st, 2021
+## Submission Deadline: <del>April 1st, 2021</del> **April 10th, 2021 (FIRM!!!)**
 - Final Evaluation Stage: April 7th, 2021 – April 21st, 2021
 - Result Announcement: April 23rd 2021
 - Prize: **$100 cash**
